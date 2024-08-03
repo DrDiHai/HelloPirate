@@ -14,4 +14,4 @@ def serve_index():
 
 if __name__ == '__main__':
     # Start the Flask web server
-    app.run(host='20.208.5.36', port=80)
+    app.run()
